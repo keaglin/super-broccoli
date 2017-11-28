@@ -1,0 +1,5 @@
+em - relative unit based on font-size of parent (might stand for element)
+rem - relative to font-size of root (might be root element)
+codrops (https://tympanus.net/codrops/) - css reference
+background appears inside border (so content AND padding)
+note: margin can be negative; padding canNOT
