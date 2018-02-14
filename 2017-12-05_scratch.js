@@ -1,7 +1,7 @@
 geese.forEach(function(goose) {
 	birds.filter(function(bird) {
 		return bird !== goose
-})
+  })
 })
 
 var obj = {}
